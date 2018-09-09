@@ -27,8 +27,8 @@ Docsite is an opensource generator for building an static website, and you can i
 ## Feature
 
 - Be able to generate document, blog, and custom page
+- Support markdown files
 - Responsive UI
-- Support single page / multi page
 - Good for SEO 
 - Support internationalization
 - Support custom page
@@ -44,6 +44,9 @@ Docsite is an opensource generator for building an static website, and you can i
 
 
 [![Nacos](https://gw.alicdn.com/tfs/TB1SxFhwpooBKNjSZFPXXXa2XXa-300-64.png)](https://nacos.io/en-us/)
+
+
+[[![AiMatrix]](https://img.alicdn.com/tfs/TB1KeKlw9cqBKNjSZFgXXX_kXXa-652-116.png)](https://aimatrix.ai)
 
 ## Dependency
 

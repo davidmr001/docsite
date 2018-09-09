@@ -27,8 +27,8 @@ docsite 是一款开源站点搭建工具，依据其提供的功能，能够快
 ## 特性
 
 - 支持文档、博客、项目首页一键生成
+- 支持markdown文件
 - 跨屏幕适配的 UI
-- 支持单页模式 / 多页模式
 - SEO 优化
 - 国际化
 - 支持自定义页面
@@ -44,6 +44,8 @@ docsite 是一款开源站点搭建工具，依据其提供的功能，能够快
 
 
 [![Nacos](https://gw.alicdn.com/tfs/TB1SxFhwpooBKNjSZFPXXXa2XXa-300-64.png)](https://nacos.io/en-us/)
+
+[[![AiMatrix]](https://img.alicdn.com/tfs/TB1KeKlw9cqBKNjSZFgXXX_kXXa-652-116.png)](https://aimatrix.ai)
 
 ## 依赖
 
