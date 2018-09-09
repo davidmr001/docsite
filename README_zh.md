@@ -45,7 +45,7 @@ docsite 是一款开源站点搭建工具，依据其提供的功能，能够快
 
 [![Nacos](https://gw.alicdn.com/tfs/TB1SxFhwpooBKNjSZFPXXXa2XXa-300-64.png)](https://nacos.io/en-us/)
 
-[[![AiMatrix]](https://img.alicdn.com/tfs/TB1KeKlw9cqBKNjSZFgXXX_kXXa-652-116.png)](https://aimatrix.ai)
+[![AiMatrix](https://img.alicdn.com/tfs/TB1FQFVw8jTBKNjSZFwXXcG4XXa-300-64.jpg)](https://aimatrix.ai)
 
 ## 依赖
 
