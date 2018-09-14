@@ -35,7 +35,7 @@ docsite 是一款开源站点搭建工具，依据其提供的功能，能够快
 
 ## 文档
 
-- [快速开始](https://txd-team.github.io/docsite-doc-v1/zh-cn/docs/installation.html)
+- [快速开始](https://docsite.js.org/zh-cn/docs/installation.html)
 - [English Verion](./README.md)
 
 ## 谁在使用

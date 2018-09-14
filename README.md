@@ -35,7 +35,7 @@ Docsite is an opensource generator for building an static website, and you can i
 
 ## Document
 
-- [Quick Start](https://txd-team.github.io/docsite-doc-v1/en-us/docs/installation.html)
+- [Quick Start](https://docsite.js.org/en-us/docs/installation.html)
 - [中文说明](./README_zh.md)
 
 ## User
